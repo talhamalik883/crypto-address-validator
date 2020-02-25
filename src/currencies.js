@@ -447,6 +447,10 @@ var CURRENCIES = [
         name: 'USDC Coin',
         symbol: 'usdc',
         validator: ETHValidator,
+    },{
+        name: 'QUSDC (Stable Coin)',
+        symbol: 'qusdc',
+        validator: ETHValidator,
     }, {
         name: 'Binance Coin',
         symbol: 'bnb',
