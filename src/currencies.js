@@ -448,8 +448,8 @@ var CURRENCIES = [
         symbol: 'usdc',
         validator: ETHValidator,
     },{
-        name: 'QUSDC (Stable Coin)',
-        symbol: 'qusdc',
+        name: 'QUSD (Stable Coin)',
+        symbol: 'qusd',
         validator: ETHValidator,
     }, {
         name: 'Binance Coin',
