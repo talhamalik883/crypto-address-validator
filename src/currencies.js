@@ -451,7 +451,11 @@ var CURRENCIES = [
         name: 'QUSD (Stable Coin)',
         symbol: 'qusd',
         validator: ETHValidator,
-    }, {
+    },{
+        name: 'CSD (CryptoSook Dollar)',
+        symbol: 'csd',
+        validator: ETHValidator,
+      }, {
         name: 'Binance Coin',
         symbol: 'bnb',
         validator: BNBValidator,
