@@ -215,13 +215,13 @@
     "USDC Coin",
     "Binance Coin"
   ],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Chris <chris.tsim@gmail.com>",
-  "homepage": "https://github.com/christsim/multicoin-address-validator",
+  "homepage": "https://github.com/talhamalik883/crypto-address-validator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christsim/multicoin-address-validator.git"
+    "url": "git+https://github.com/talhamalik883/crypto-address-validator"
   },
   "main": "src/wallet_address_validator",
   "engines": {
@@ -259,7 +259,7 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/christsim/multicoin-address-validator/issues"
+    "url": "https://github.com/talhamalik883/crypto-address-validator/issues"
   },
   "directories": {
     "test": "test"
