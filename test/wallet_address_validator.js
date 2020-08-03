@@ -912,5 +912,12 @@ describe('WAValidator.validate()', function () {
             invalid('12345678901@', 'eos');
         });
 
+        it('should return true for ETH BASE COINS', function () {
+            valid('0xAF44900dfFF07C3e97cB4892C6C029b913acbE32', 'LEBRON');
+            valid('0xAF44900dfFF07C3e97cB4892C6C029b913acbE32', 'KHABIB');
+            valid('0xAF44900dfFF07C3e97cB4892C6C029b913acbE32', 'NEYMAR');
+
+        });
+
     });
 });

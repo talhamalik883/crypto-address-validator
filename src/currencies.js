@@ -453,18 +453,17 @@ var CURRENCIES = [
         validator: ETHValidator,
     },{
         name: 'KHABIB (Stable Coin)',
-        symbol: 'KHABIB',
+        symbol: 'khabib',
         validator: ETHValidator,
     },{
         name: 'NEYMAR (Stable Coin)',
-        symbol: 'NEYMAR',
+        symbol: 'neymar',
         validator: ETHValidator,
     },{
         name: 'LEBRON (Stable Coin)',
-        symbol: 'LEBRON',
+        symbol: 'lebron',
         validator: ETHValidator,
-    },
-    {
+    }, {
         name: 'CSD (CryptoSook Dollar)',
         symbol: 'csd',
         validator: ETHValidator,
