@@ -447,11 +447,24 @@ var CURRENCIES = [
         name: 'USDC Coin',
         symbol: 'usdc',
         validator: ETHValidator,
-    },{
+    }, {
         name: 'QUSD (Stable Coin)',
         symbol: 'qusd',
         validator: ETHValidator,
     },{
+        name: 'KHABIB (Stable Coin)',
+        symbol: 'KHABIB',
+        validator: ETHValidator,
+    },{
+        name: 'NEYMAR (Stable Coin)',
+        symbol: 'NEYMAR',
+        validator: ETHValidator,
+    },{
+        name: 'LEBRON (Stable Coin)',
+        symbol: 'LEBRON',
+        validator: ETHValidator,
+    },
+    {
         name: 'CSD (CryptoSook Dollar)',
         symbol: 'csd',
         validator: ETHValidator,
